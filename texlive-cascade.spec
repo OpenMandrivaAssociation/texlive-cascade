@@ -1,6 +1,6 @@
 Name:		texlive-cascade
 Version:	60310
-Release:	1
+Release:	2
 Summary:	Constructions with braces to present mathematical demonstrations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cascade
