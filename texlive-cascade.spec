@@ -3,7 +3,7 @@ Version:	65757
 Release:	1
 Summary:	Constructions with braces to present mathematical demonstrations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cascade
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cascade
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cascade.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cascade.doc.r%{version}.tar.xz
